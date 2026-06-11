@@ -1,0 +1,14 @@
+[
+  {
+    "type": "snapshot",
+    "timestamp": "2026-01-15T15:00:00Z",
+    "bids": [["100.00", "5.00"]],
+    "asks": [["100.10", "4.50"]],
+    "checksum_status": "passed"
+  },
+  {
+    "type": "checksum_failure",
+    "timestamp": "2026-01-15T15:00:01Z"
+  }
+]
+

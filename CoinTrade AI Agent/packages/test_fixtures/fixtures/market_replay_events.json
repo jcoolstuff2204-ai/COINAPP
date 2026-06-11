@@ -1,0 +1,44 @@
+[
+  {
+    "type": "snapshot",
+    "timestamp": "2026-01-15T14:04:58Z",
+    "bids": [["42848.00", "1.25"], ["42845.50", "1.80"], ["42840.00", "2.20"]],
+    "asks": [["42852.00", "1.10"], ["42855.00", "1.65"], ["42860.00", "2.10"]],
+    "checksum_status": "passed"
+  },
+  {
+    "type": "trade",
+    "timestamp": "2026-01-15T14:04:59Z",
+    "trade_id": "fixture-trade-1",
+    "price": "42851.50",
+    "quantity": "0.42",
+    "aggressor_side": "buy"
+  },
+  {
+    "type": "update",
+    "timestamp": "2026-01-15T14:05:00Z",
+    "side": "bid",
+    "price": "42850.00",
+    "quantity": "1.75",
+    "checksum_status": "passed"
+  },
+  {
+    "type": "update",
+    "timestamp": "2026-01-15T14:05:01Z",
+    "side": "ask",
+    "price": "42852.00",
+    "quantity": "0.70",
+    "checksum_status": "passed"
+  },
+  {
+    "type": "candle",
+    "timestamp": "2026-01-15T14:05:00Z",
+    "timeframe": "1m",
+    "open": "42680.00",
+    "high": "42875.00",
+    "low": "42662.00",
+    "close": "42850.00",
+    "volume": "184.2"
+  }
+]
+
